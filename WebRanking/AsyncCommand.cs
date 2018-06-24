@@ -8,6 +8,7 @@ using WebRanking.Interfaces;
 
 namespace WebRanking
 {
+    // https://github.com/johnthiriet/AsyncVoid
     public class AsyncCommand : IAsyncCommand
     {
         public event EventHandler CanExecuteChanged;
