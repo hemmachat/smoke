@@ -45,6 +45,5 @@
         Width="80"
         HorizontalAlignment="Left"
         Margin="5.2,4.2,0,5" Click="SearchButton_Click" />
-        <WebBrowser x:Name="browser" HorizontalAlignment="Left" Height="289" Margin="45,41.2,0,-297.4" VerticalAlignment="Top" Width="702" Grid.Row="2" Grid.ColumnSpan="2" LoadCompleted="browser_LoadCompleted"/>
     </Grid>
 </Window>

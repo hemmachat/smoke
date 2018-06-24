@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRanking", "WebRanking\WebRanking.csproj", "{94ADE2E2-D129-4CF9-B066-ED96F144C960}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRankingLibrary", "WebRankingLibrary\WebRankingLibrary.csproj", "{2FF3AEE8-0DFE-4CEE-93A7-0CB26ABF8EEF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{94ADE2E2-D129-4CF9-B066-ED96F144C960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94ADE2E2-D129-4CF9-B066-ED96F144C960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94ADE2E2-D129-4CF9-B066-ED96F144C960}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2FF3AEE8-0DFE-4CEE-93A7-0CB26ABF8EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FF3AEE8-0DFE-4CEE-93A7-0CB26ABF8EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FF3AEE8-0DFE-4CEE-93A7-0CB26ABF8EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FF3AEE8-0DFE-4CEE-93A7-0CB26ABF8EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
